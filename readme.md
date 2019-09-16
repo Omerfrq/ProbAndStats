@@ -11,14 +11,14 @@ Population refers to the total set of observations that can be made.
 Sampling is the subset of the population in which a predetermined number of observations are taken from a larger population.
 
 - ## Simple Random Sampling:
-                            Every element has an equal chance of getting selected to be the part sample. It is used when we don’t have any kind of prior information about the target population.
+`Every element has an equal chance of getting selected to be the part sample. It is used when we don’t have any kind of prior information about the target population`
 
 ## For Example
 
 -  Random selection of 20 students from class of 50 student. Each student has equal chance of getting selected. Here probability of selection is 1/50.
 
 - ## Stratified Sampling:
-                            This technique divides the elements of the population into small subgroups (strata) based on the similarity in such a way that the elements within the group are homogeneous and heterogeneous among the other subgroups formed. And then the elements are randomly selected from each of these strata. We need to have prior information about the population to create subgroups.
+`This technique divides the elements of the population into small subgroups (strata) based on the similarity in such a way that the elements within the group are homogeneous and heterogeneous among the other subgroups formed. And then the elements are randomly selected from each of these strata. We need to have prior information about the population to create subgroups`
 
 ## For Example
 
@@ -32,7 +32,7 @@ Sampling is the subset of the population in which a predetermined number of obse
 
 
 - ## Systemic Sampling:
-                            Systematic sampling is a type of probability sampling method in which sample members from a larger population are selected according to a random starting point but with a fixed, periodic interval. This interval, called the sampling interval, is calculated by dividing the population size by the desired sample size.
+`Systematic sampling is a type of probability sampling method in which sample members from a larger population are selected according to a random starting point but with a fixed, periodic interval. This interval, called the sampling interval, is calculated by dividing the population size by the desired sample size.`
 
 ## For Example
 
@@ -41,4 +41,4 @@ Sampling is the subset of the population in which a predetermined number of obse
 - For example, if the selected starting point was 20, the 70th person on the list would be chosen followed by the 120th, and so on. Once the end of the list was reached and if additional participants are required, the count loops to the beginning of the list to finish the count. 
 
 ## Cluster Sampling
-                    Our entire population is divided into clusters or sections and then the clusters are randomly selected. All the elements of the cluster are used for sampling. Clusters are identified using details such as age, sex, location etc.
+`Our entire population is divided into clusters or sections and then the clusters are randomly selected. All the elements of the cluster are used for sampling. Clusters are identified using details such as age, sex, location etc.`
